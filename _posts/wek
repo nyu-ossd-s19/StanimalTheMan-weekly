@@ -1,0 +1,175 @@
+I chose to evaluate the __Pandas__ library because while I am a noob at everything cs related, I do have an interest in **baseball
+and stats** like **_velocity, spin rates, exit velocities_**, etc.  I have not used math in ages since coming to college, but
+recently, I nonetheless tried to look into the Pandas library in an effort to learn some **_data visualization skills_** that can
+come in handy for **_data analysis, statistical analysis, and possibly machine learning analysis_**.  Maybe, I can defy the odds and relearn the math and other skills I need and try to enter the realms of data science, machine learning, artificial intelligence someday.  Pandas seems to be handy...
+
+# Project Evaluation
+
+
+__Project Name:__  Pandas
+
+
+---
+
+## Finding info about contributing on the website.
+
+__Project website:__ https://pandas.pydata.org/
+
+
+__What is the purpose of the project:__ Pandas aims to provide high-performance and user friendly data prepping and data analysis tools using the Python Programming Language.
+
+
+__How easy was it to find information about contributing on the website?__ Very Easy.
+
+
+__Contributing instructions:__ http://pandas.pydata.org/pandas-docs/stable/development/contributing.html
+
+__URL for the code repository:__ https://github.com/pandas-dev/pandas
+
+__Bug/Issue tracker link:__ https://github.com/pandas-dev/pandas/issues
+
+__Mailing list:__ https://mail.python.org/mailman/listinfo/pandas-dev
+
+__Chat channel:__ https://gitter.im/pydata/pandas
+
+__Other communication channels:__ https://groups.google.com/forum/?fromgroups#!forum/pydata
+
+
+---
+
+## Finding info at the project repository and bug/issue tracker.
+
+__License:__ [BSD 3-Clause "New" or "Revised" License](https://github.com/pandas-dev/pandas/blob/master/LICENSE)
+
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
+
+__Programming Language:__ Python
+
+__URL for contributing instructions:__ https://pandas-docs.github.io/pandas-docs-travis/development/contributing.html
+
+__Are the contributing instructions clear?__ Very clear and detailed
+
+
+__URL for code of conduct / community norms / community guildelines:__ For some reason, I cannot locate CODE_OF_CONDUCT in
+the project repository and there doesn't seem to be a URL in the README.md. either.
+
+__URL for instructions for users to download and install the package:__ https://github.com/pandas-dev/pandas#installation-from-sources
+
+https://github.com/pandas-dev/pandas#where-to-get-it
+
+
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, I think so.  Maybe look into pip if using it if you don't know what it is etc.
+
+
+__Number of contributors:__ 1419
+
+
+__Usernames of three contributors with largest number of commits; for
+each of them list the link to their latest commit__:
+
+1. [wesm](https://github.com/wesm) - [Latest Commit](https://github.com/pandas-dev/pandas/commit/623b3e7930441171972e4add0126182e76138215)
+2. [jreback](https://github.com/jreback) - [Latest Commit](https://github.com/pandas-dev/pandas/commit/659e0cae6be2d7ab3370cc7d8ab936bc3ee1b159)
+3. [jbrockmendel](https://github.com/jbrockmendel) - [Latest Commit](https://github.com/pandas-dev/pandas/commit/f59a6ab2e993f0e2f78babd02e39297adfb4333a)
+
+
+__Number of commits:__ 18,946
+
+__Latest commit__ 
+
+- __link to the commit:__ https://github.com/pandas-dev/pandas/commit/85572de5e7bb188cfecc575ee56786406e79dc79
+
+- __who made that commit:__ jreback
+
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...) bug fix
+
+
+__Issues__
+
+- __how many open issues are there:__ 2805
+
+    - __url for the last issue created:__ https://github.com/pandas-dev/pandas/issues/25423
+
+    - __how many users discuss the issue:__ 2
+    
+    - __when was the issue reported:__ 5 hours ago
+    
+
+- __how many closed issues are there:__ 11683
+    - __url for the last issue closed:__ https://github.com/pandas-dev/pandas/issues/25406
+    - __how many users discussed the issue:__ 3
+    - __when was the issue reported:__ 2 days ago
+    - __when was the issue closed:__ 2 days ago
+
+- __how active is the discussion on the issues:__ dating back to past month, nearly every day
+
+    - __example of a lot of good discussion:__ https://github.com/pandas-dev/pandas/issues/25364
+    
+    - __example of an issue that does not have much discussion:__ https://github.com/pandas-dev/pandas/issues/25353
+
+
+
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes -  **"Good First Issue"**
+
+    - __how many of such issues are there?__ 228 open 341 closed
+    
+    - __look at a few of them, do they look beginner friendly?__ not really as one seems to benefit from knowledge of errors and testing as prerequisites. 
+
+
+
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes - **Docs**
+
+    - __how many of such issues are there?__ 247 open 866 closed
+    
+    - __look at a few of them, do you think you could submit a fix?__ While some seem approachable I do not know if my fixes
+    would be good enough.
+
+
+
+__Pull requests__
+
+- __how many open pull requests are there:__ 121
+
+    - __url for the last pull request created:__ https://github.com/pandas-dev/pandas/pull/25426
+    
+    - __when was the last pull request made:__ an hr ago
+
+    - __url for the oldest pull request created:__ https://github.com/pandas-dev/pandas/pull/17332
+    
+    - __when was the oldest pull request made:__ August 25, 2017
+
+- __how many closed pull requests are there:__ 10,805
+
+    - __url for the last pull request closed:__ https://github.com/pandas-dev/pandas/pull/25421
+    
+    - __how many users discussed the pull request:__ 2
+    
+    - __when was the pull request made:__ 9 hours ago
+    
+    - __when was the pull request closed:__ 2 hours ago
+    
+
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, user **jreback** replies rather promptly.
+
+
+
+
+
+---
+
+
+## Summary assesment
+__How friendly is this project for beginner contributors?__  Neutral; I think it might be hard if one is completely new to programming.  While one can bring up questions like how to use Pandas in scientific articles or ask for clarification on errors, it seems more beneficial for those who are more intermediate or advanced with Pandas, Python, etc.
+
+
+__Do the maintainers respond helpfully to questions in issues?__ Yes, at least one of them, **jreback** does so.
+
+
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes.
+
+
+__Do pull requests get reviewed?__ Yes.
+
+
+
+__Do maintainers thank people for their contributions?__ Yes
+
