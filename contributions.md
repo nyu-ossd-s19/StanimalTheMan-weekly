@@ -21,5 +21,5 @@ Replace the first row with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
 |  2   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+|  5   |  https://github.com/freeCodeCamp/freeCodeCamp/pull/35511   |  pull request FreeCodeCamp   |  I tried to get into the community by making a simple solution to a data structures question on adjacency lists in Javascript.    |
 |     |     |     |      |
