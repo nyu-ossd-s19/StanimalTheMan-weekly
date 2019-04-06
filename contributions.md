@@ -24,3 +24,4 @@ Replace the first row with your contribution.
 |  9   | https://github.com/nyu-ossd-s19/rachelyhe-weekly/issues/3    |  issue report blog   |  I found more obvious errors like broken links already having been marked as issues by other students back in the beginning of the semester so I decided to suggest maybe updating the default picture on a blog for a student.   |
 |  9   | https://github.com/nyu-ossd-s19/isaacblinder-weekly/issues/3  | issue report blog   |  I think the student may need to update his contributions.md so that it is not about his blog posts.
 |  10  | https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/6    | issue report blog   |  I think the student's links on his contributions.md can be more specific so that one can locate his pull requests more readily.
+|  10  | https://en.wikipedia.org/wiki/Special:Contributions/StanimalNYM   | Wikipedia   | I added a grammar fix on a page about Senait Fisseha.
