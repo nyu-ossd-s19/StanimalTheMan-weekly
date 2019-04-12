@@ -26,3 +26,4 @@ Replace the first row with your contribution.
 |  10  | https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/6    | issue report blog   |  I think the student's links on his contributions.md can be more specific so that one can locate his pull requests more readily.
 |  10  | https://en.wikipedia.org/wiki/Special:Contributions/StanimalNYM   | Wikipedia   | I added a grammar fix to a page about Senait Fisseha.
 |  12  | https://en.wikipedia.org/wiki/Special:Contributions/StanimalNYM   | Wikipedia   |  I made grammar fixes and improved diction for an article on Crawford Productions.
+|  12  | https://en.wikipedia.org/wiki/Special:Contributions/StanimalNYM   | Wikipedia   |  I added information about José Fernández, a MLB pitcher who played for the Miami Marlins from 2013-2016 and tragically passed away in the middle of the 2016 season.  |
